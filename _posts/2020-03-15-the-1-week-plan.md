@@ -6,13 +6,13 @@ date: 2020-03-15
 
 This is it, the start (ehh... an "offset start").
 
-## The Plan
+### The Plan
 Currently have the second half of Week 3 and onwards in MIT's 6.002x 3-part course to go through.
-There is a total of 4 weeks in a singular part, therefore a total of 12 weeks or 3 months to finish this course in an acceptable university standard pace... **--I HAVE NO TIME FOR THAT!** As you can probably conclude from the title of this post, yes, I plan to finish these 3 months in under a week. Ambitious? Yes - Doable? Maybe - Insane? \F*** YES! To be accurate I'll be starting the 1-week-plan from Week 3.5 like a pussy, so what? Sue me. In their introduction they do say one should spend at least 6 hours a week on the course. Translating that over means to finsih these remaining 8.5 weeks I need to spend 6*8.5 = 51 hours this week just studying. I know these hours are sort of achievable because I've seen just as crazy people achieve this kind of productivity over at the [InterGalaxia guild in Habitica](https://habitica.com/groups/guild/43ae9992-5fbe-45a9-83b5-6607eb506967). Top place per week is usually about ~3000 minutes (50 hours) a week. That's 7.14 hours a day. So what? That's comparable to a regular day at a 9-5 job or a 7-2 school day. True, but this isn't some low-level work you can just clock in and clock out, this is 7.14 hours of painful, frustrating deep work.
+There is a total of 4 weeks in a singular part, therefore a total of 12 weeks or 3 months to finish this course in an acceptable university standard pace... **--I HAVE NO TIME FOR THAT!** As you can probably conclude from the title of this post, yes, I plan to finish these 3 months in under a week. Ambitious? Yes - Doable? Maybe - Insane? F\*\*\* YES! To be accurate I'll be starting the 1-week-plan from Week 3.5 like a pussy, so what? Sue me. In their introduction they do say one should spend at least 6 hours a week on the course. Translating that over means to finsih these remaining 8.5 weeks I need to spend 6*8.5 = 51 hours this week just studying. I know these hours are sort of achievable because I've seen just as crazy people achieve this kind of productivity over at the [InterGalaxia guild in Habitica](https://habitica.com/groups/guild/43ae9992-5fbe-45a9-83b5-6607eb506967). Top place per week is usually about ~3000 minutes (50 hours) a week. That's 7.14 hours a day. So what? That's comparable to a regular day at a 9-5 job or a 7-2 school day. True, but this isn't some low-level work you can just clock in and clock out, this is 7.14 hours of painful, frustrating deep work.
 
 > Deep work is the ability to focus without distraction on a cognitively demanding task. *-Cal Newport*
 
-## The Setup
+### The Setup
 I had a test trial going from week 2.5 to week 3.5, it took me roughly 6 hours. I didn't reach my 7.14 hour goal but it was close and I could definitely have gone for longer. However, by the end of those non-continuous 6 hours, I was done, tired, finito. Woke up at 10am, next 4 hours until 2pm, studied. Leisure time for 2 hours, then back on that grind, 4pm-6pm studied. I need a way, a method, a system which allows me to grind for hours with minimal fatigue gain per hour.
 
 1. The first obvious probable solution was the good ol' pomodoro. I don't usually like using it, but those breaks every 25 minutes may help to keep my sanity in-check (and [improve learning efficiency](https://youtu.be/IlU-zDU6aQ0?t=135). 
@@ -21,5 +21,6 @@ I had a test trial going from week 2.5 to week 3.5, it took me roughly 6 hours. 
 4. Distractions, distractions, distractions! Easy, this one week, I am only allowed 1 item from the toy chest and that toy is the edX domain alongside a chewed-up limited functioning version of google to help with terminologies, explanations, etc. I'm allowed more toys after I hit my daily quota. Simply put, I can have more fun later in the day with the Internet after going through roughly a week and a bit of 6.002x a day. "B-but what about chores?" I've a set time, every 12pm I have an hour to finish up chore duty, imma sneak
 5. Sleep that beautiful ideal 8 hours a day. I've been sleeping for 10 hours a day for the past few weeks, not good for my health and productivity. It's because my sleep cycle gets ruined every 6am due to external issues. Solution? 8 hours of sleep before 6am comes around. At the very end of that burning candle wick, it should say 10pm... hopefully. Going to be a rough time couple of days for sure.
 
-### The Edits
+#### The Edits
 I'll be updating this post every night just before bedtime to let you know on my progress. It's 2:24am now as I write this whole post... already not a good start on number 5: Sleep.
+___
