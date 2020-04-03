@@ -21,7 +21,5 @@ I had a test trial going from week 2.5 to week 3.5, it took me roughly 6 hours. 
 4. Distractions, distractions, distractions! Easy, this one week, I am only allowed 1 item from the toy chest and that toy is the edX domain alongside a chewed-up limited functioning version of google to help with terminologies, explanations, etc. I'm allowed more toys after I hit my daily quota. Simply put, I can have more fun later in the day with the Internet after going through roughly a week and a bit of 6.002x a day. "B-but what about chores?" I've a set time, every 12pm I have an hour to finish up chore duty, imma sneak
 5. Sleep that beautiful ideal 8 hours a day. I've been sleeping for 10 hours a day for the past few weeks, not good for my health and productivity. It's because my sleep cycle gets ruined every 6am due to external issues. Solution? 8 hours of sleep before 6am comes around. At the very end of that burning candle wick, it should say 10pm... hopefully. Going to be a rough time couple of days for sure.
 
-#### The Edits
-I'll be updating this post every night just before bedtime to let you know on my progress. It's 2:24am now as I write this whole post... already not a good start on number 5: Sleep.
-
-___
+Edit:
+20 days later, I'm sorry I failed. I needed a better way to attack this massive workload. It's not something one completes so easily in a few days. I also had depressive and suicidal thoughts a few days after I started this massive undertaking. I just wanted to get away from it all and find comfort somewhere else. I'll return with a new project or even.. projects! I have a few things I need to get done for the remaining 2 weeks before I start. Hope to see you then then when I come back on the 16th of April.
